@@ -1,6 +1,8 @@
+<img width="1440" height="776" alt="DA Project Publish" src="https://github.com/user-attachments/assets/3099ee52-a1cc-4700-a0e5-80051395e73b" />
+
 # Bollywood Movies Metadata — Cinelytics
 
-This repository contains the **Bollywood Movies Metadata** dataset curated and published by *Cinelytics*. It provides structured information on Indian films covering metadata, sentiment indicators, financial performance, and commercial verdicts. The dataset supports research, analytics, sentiment studies, and predictive modeling in film industry data science.
+This repository contains the **Bollywood Movies Metadata** dataset created by me. It provides structured information on Indian films covering metadata, sentiment indicators, financial performance, and commercial verdicts. The dataset supports research, analytics, sentiment studies, and predictive modeling in film industry data science.
 
 ## Dataset Overview
 
