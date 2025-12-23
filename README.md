@@ -15,8 +15,6 @@ The dataset consists of **20,282 entries** with structured metadata for Indian f
 
 The dataset merges classical film metadata with sentiment features to enable a wide range of analytical and machine learning use cases.
 
-**Published Dataset Link:**  
-https://datahubkgp.org/datasets/datasetDetails.php?id=c8938ab30fc0ba3f3b11 :contentReference[oaicite:0]{index=0}
 
 ### Key Attributes
 
